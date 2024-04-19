@@ -51,8 +51,6 @@ namespace ORM.Controllers
                     }) ;
 
                 }
-
-               
             }
 
             return new JsonResult(read);
